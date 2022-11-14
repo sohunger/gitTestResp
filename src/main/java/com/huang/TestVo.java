@@ -8,6 +8,4 @@ public class TestVo {
     private String age;
 
     private String high;
-
-    private String weight;
 }
